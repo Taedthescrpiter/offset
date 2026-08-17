@@ -1,7 +1,3 @@
-// Roblox Version - version-ddf602d9cfe44005
-// Total flags: 14,277
-// Dumped by syscall at 2026-08-17 13:30:33
-
 #pragma once
 
 namespace FFlagList
